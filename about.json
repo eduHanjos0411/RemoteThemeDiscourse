@@ -1,22 +1,24 @@
 {
-  "name": "Theme name",
-  "about_url": "Theme about url",
-  "license_url": "Theme license url",
-   "assets": {
+  "name": "Testando",
+  "about_url": "https://github.com/eduHanjos0411/RemoteThemeDiscourse/blob/main/about.json ",
+  "license_url": "https://github.com/eduHanjos0411/RemoteThemeDiscourse/blob/main/LICENSE ",
+  "assets": {
         "asset-variable": "assets/background.svg"
-   },
-   "color_schemes": {
-       "color scheme name": {
-          "primary": "000000",
+  },
+  "color_schemes": {
+    "CoresTestando": {
+          "primary": "6d00a8",
           "secondary": "000000",
-          "tertiary": "000000",
-          "quaternary": "000000",
-          "header_background": "000000",
-          "header_primary": "000000",
-          "highlight": "000000",
-          "danger": "000000",
-          "success": "000000",
-          "love": "000000"
+          "tertiary": "c532fb",
+          "quaternary": "ffffff",
+          "header_background": "fff700",
+          "header_primary": "9e02f2",
+          "highlight": "fafa00",
+          "danger": "c80001",
+          "success": "009900",
+          "love": "ff1a4f",
+          "selected": "26b5fd",
+          "hover": "ffffff"
         }
     }
 }
